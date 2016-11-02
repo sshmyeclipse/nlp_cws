@@ -6,7 +6,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 
 /**
- * @author durui E-mail:durui@summba.com
+ * @author durui E-mail:nlprobot@163.com
  * @since  2016年6月30日 上午9:19:15
  * 正向最大匹配分词
  */
